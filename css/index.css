@@ -133,6 +133,7 @@ header p{
 	width: 5.125rem;
 	margin-left: 0.825rem;
 	background: url(../images/m7.png) no-repeat 1.125rem center #004e7f;
+	background-size: 0.575rem;
 	font-weight: normal;
 	padding-left: 2.0rem
 }
@@ -239,6 +240,7 @@ header p{
 	padding-left: 1.375rem;
 	text-align: left;
 	background: url(../images/m7.png) no-repeat 0.55rem center #004e7f;
+	background-size: 0.575rem
 }
 .zg-main3{
 	overflow: hidden;
@@ -632,6 +634,7 @@ header p{
 	margin-left: 1.95rem;
 	padding-left: 1.425rem;
 	background: url('../images/m7.png') no-repeat 0.6rem center #004e7f;
+	background-size: 0.575rem
 }
 .zg-main6{
 	overflow: hidden;
