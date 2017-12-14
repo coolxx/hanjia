@@ -530,6 +530,7 @@ header p{
 	width: 16.15rem;
 	height: 1.475rem;
 	background: url(../images/m21.png) no-repeat center;
+	background-size: 16.15rem;
 	margin: 0.6rem auto 0;
 	overflow: hidden;
 	font-size: 0;
