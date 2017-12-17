@@ -166,6 +166,7 @@ header p{
 	width: 8.575rem;
 	height: 8.25rem;
 	background: url(../images/m9.png) no-repeat center;
+	background-size: 8.575rem;
 }
 .zg-main2-cont li b{
 	display: block;
@@ -186,9 +187,10 @@ header p{
 	display: block;
 	font-size: 0.6rem;
 	line-height: 0.6rem;
-	margin-left: 0.45rem;
-	padding-left: 1.0rem;
+	margin-left: 0.35rem;
+	padding-left: 0.7rem;
 	background: url(../images/m10.png) no-repeat left center;
+	background-size: 0.525rem;
 	color: #333;
 }
 .zg-main2-cont li:last-child img{
@@ -490,6 +492,7 @@ header p{
 	margin-top: 0.65rem;
 	float: left;
 	background: url(../images/m19.png) no-repeat 0.8rem center;
+	background-size: 0.475rem;
 }
 .main5-cont2 div{
 	height: 5.2rem;
